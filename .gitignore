@@ -1,0 +1,7 @@
+# .gitignore example
+
+# Python
+*.pyc
+
+# Logs
+*.log
